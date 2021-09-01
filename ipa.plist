@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://211.99.103.115:5001/ipa/dy0901.ipa</string>
+                    <string>http://211.99.103.115:5001/ipa/dy0901.ipa</string> 
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-				<string>com.my.test</string>
+                <string>com.my.test</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>1.1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>dy0901</string>
+                <string>应用名称</string>
             </dict>
         </dict>
     </array>
