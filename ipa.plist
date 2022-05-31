@@ -19,11 +19,11 @@
                 <key>bundle-identifier</key>
                 <string>com.my.test</string>
                 <key>bundle-version</key>
-                <string>1.1.0</string>
+                <string>8.0.23</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>应用名称</string>
+                <string>少爷的DEFENDER</string>
             </dict>
         </dict>
     </array>
